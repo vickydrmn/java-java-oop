@@ -1,0 +1,8 @@
+Alamat : a
+panjang tanah : 1
+luas tanah : 1
+
+Alamat : 1
+panjang tanah : 1
+luas tanah : 1
+
